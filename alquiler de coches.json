@@ -1,0 +1,586 @@
+{"directorios": {
+    "directorio": [
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Estación de Renfe-Feve Sanz Crespo, C/ Bohemia, 6 - 33207",
+                {
+                    "content": "Estación de Renfe-Feve Sanz Crespo, C/ Bohemia, 6 - 33207",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 388 977",
+            "horario": "L-V: 8:30-13:30 y 16:30-19:30; Sábado: 9:00-13:00",
+            "identificador": 10284,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537181 -5.67536",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Enterprise Rent a Car",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10284-enterprise-rent-a-car",
+            "send": "fecha-actualizacion2015-06-09 14:21:42 +0200",
+            "telefono": {
+                "content": "985 154 121",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/10284-enterprise-rent-a-car",
+            "web": "http://www.enterprise.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Plaza Nicanor Piñole, 3 - 33205",
+                {
+                    "content": "Plaza Nicanor Piñole, 3 - 33205",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 340 809",
+            "horario": "L-V 8:30-13:30 y 16:00-19:30; Sábados: 9:30-13:00; Domingos y festivos: 10:00-13:00",
+            "identificador": 10276,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.538154 -5.661289",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Avis",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10276-avis",
+            "send": "fecha-actualizacion2015-06-09 14:23:42 +0200",
+            "telefono": {
+                "content": "985 354 208, 985 340 809, 902 090 252 (Información)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/10276-avis",
+            "web": "http://www.avis.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "C/ Arquímedes, 122 - Polígono Industrial de Roces III - 33211",
+                {
+                    "content": "C/ Arquímedes, 122 - Polígono Industrial de Roces III - 33211",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 165 002",
+            "horario": "Lunes a Viernes: 8:00-17:00",
+            "identificador": 10261,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.504057 -5.696113",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Go Rent a Car",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/10261-go-rent-a-car",
+            "send": "fecha-actualizacion2015-06-09 14:07:08 +0200",
+            "telefono": {
+                "content": "985 171 592 (Gijón), 985 965 545 (Oviedo)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/10261-go-rent-a-car",
+            "web": "http://gorentacar.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2013,
+                    "id": 2841,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "<a href=\"http://info@gorentacar.es\" title=\"Ir a info@gorentacar.es\" rel=\"external\">info@gorentacar.es<\/a>",
+            "descripcion": {
+                "content": "GO Rentacar pertenece al grupo Gomez Oviedo, con más de 60 años de experiencia en el sector del alquiler, principalmente a empresas. GO Rentacar nace con el objetivo de ofrecer servicios de alquiler a particulares a lo largo de toda la geografía asturiana.<br/><br/>En GO Rentacar queremos ofrecerte un servicio claro y sin complicaciones. El precio que verás en nuestra página web es el precio final que pagarás por el servicio de alquiler. Sin cargos ocultos ni sorpresas de última hora.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Antigua Estacion Feve - Pza del Humedal",
+                {
+                    "content": "Antigua Estacion Feve - Pza del Humedal",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f5/56965/326x181_v1_gorent.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes 9:00 - 13:30 y 16:00 - 19:30. Sábados 9:00 - 12:00",
+            "identificador": 9690,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.540438 -5.666296",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "GO Rentacar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/9690-go-rentacar",
+            "send": "fecha-actualizacion2014-01-22 12:06:31 +0100",
+            "telefono": {
+                "content": "985 17 15 92",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/9690-go-rentacar",
+            "web": "http://gorentacar.es/"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de vehículos",
+                    "id": 1262,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Congresos",
+                    "id": 597,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Club de Empresas de Turismo de Negocios",
+                    "id": 2898,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "info@alcucar.com",
+            "descripcion": {
+                "content": "Con más de 20 años de experiencia en el sector, ofrecemos nuestros servicios garantizando seriedad, discreción, efectividad y aseguramos un trato cordial y personalizado.<br/><br/>Empresa certificada con sello de Calidad ER-0009/2015, nuestro compromiso es conseguir la máxima satisfacción de nuestros clientes.<br/><br/>Nuestra actividad es:<br/><br/><a href=\"http://alcucar.com/alquiler-de-vehiculos-con-conductor/\" title=\"Ir a http://alcucar.com/alquiler-de-vehiculos-con-conductor/\" rel=\"external\">Alquiler de vehículos con conductor<\/a><br/><br/>Ofrecemos vehículos de muy alta gama, elegantes, amplios y muy confortables.<br/><br/><a href=\"http://alcucar.com/alquiler-de-vehiculos-sin-conductor/\" title=\"Ir a http://alcucar.com/alquiler-de-vehiculos-sin-conductor/\" rel=\"external\">Alquiler de vehículos sin conductor<\/a><br/><br/>Ponemos a su disposición vehículos en perfecto estado de conservación y limpieza.<br/><br/><a href=\"http://alcucar.com/eventos-especiales/\" title=\"Ir a http://alcucar.com/eventos-especiales/\" rel=\"external\">Eventos especiales<\/a><br/><br/>Bodas, despedidas, publicidad, congresos, alquiler de autocares.<br/><br/><a href=\"http://alcucar.com/disposicion-de-conductores/\" title=\"Ir a http://alcucar.com/disposicion-de-conductores/\" rel=\"external\">Disposición de conductores<\/a><br/><br/>Conductores profesionales, uniformados y bilingües, altamente cualificados y titulados con cursos de conducción para conducir sus vehículos.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Tenderina 45- bajo 33010-Oviedo",
+                {
+                    "content": "C/ Tenderina 45- bajo 33010-Oviedo",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 79 05 75",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f7/77718/241x161_v1_Nuevaimagen%281%29.png",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 6497,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.364943 -5.834033",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Alcucar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/6497-alcucar",
+            "send": "fecha-actualizacion2017-07-12 15:04:48 +0200",
+            "telefono": {
+                "content": "+34 985 79 05 75",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/6497-alcucar",
+            "web": "http://www.alcucar.com"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Congresos",
+                    "id": 597,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Alquiler de vehículos",
+                    "id": 1262,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Club de Empresas de Turismo de Negocios",
+                    "id": 2898,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "asturcar@asturcar.net",
+            "descripcion": {
+                "content": "Servicios de alquiler de vehículos con chófer. Empresa especializada en transporte para congresos y reuniones, traslados al aeropuerto, disposiciones, viajes y excursiones.<br/><br/>Nuestra flota está formada por vehículos de gama alta, Mercedes, Audi\u2026 y nuestros conductores son profesionales, disponemos de consultores de habla inglesa. Disponemos de alquiler de vehiculos y alquiler de autobuses.<br/><br/>Nuestra experiencia garantiza eficacia, comodidad y seguridad para todos nuestros clientes en cada viaje.<br/> <br/><br/>\r\n<h3>Persona de contacto:<\/h3>D. Jesús Lucio García Menéndez",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Estación autobuses Oviedo, Avda. Pepe Cosmen, s/n, 33201 Oviedo",
+                {
+                    "content": "Estación autobuses Oviedo, Avda. Pepe Cosmen, s/n, 33201 Oviedo",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 21 63 70",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f0/f7/77717/226x124_v1_Nuevaimagen%282%29.png",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": {},
+            "identificador": 2781,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.365559 -5.846392",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Astur-Car",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/2781-astur-car",
+            "send": "fecha-actualizacion2017-07-10 13:09:16 +0200",
+            "telefono": {
+                "content": "+34 902 22 28 18 /+34 985 21 36 20/ + 34 636 937 335 (24h.)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/2781-astur-car",
+            "web": "http://www.asturcar.net/"
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Alquiler de Coches",
+                "id": 436,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. Castilla, 10",
+                {
+                    "content": "Avda. Castilla, 10",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 132 207",
+            "horario": "Lunes a Jueves: 9:00-14:00h. y 15:30-18:30h. Viernes: 8:00-14:30h.",
+            "identificador": 1770,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537229 -5.646721",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Mapfre",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1770-mapfre",
+            "send": "fecha-actualizacion2014-01-22 12:03:08 +0100",
+            "telefono": {
+                "content": "985 331 211",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches",
+            "url": "http://www.gijon.es/directorios/show/1770-mapfre",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": {
+                "content": "Alquiler de Coches",
+                "id": 436,
+                "rdfa-property": "http://purl.org/dc/terms/subject"
+            }},
+            "correo-electronico": "atencion.cliente@pepecar.com; sugerencias.pepecar@pepecar.com",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Avda. de  Portugal, 14",
+                {
+                    "content": "Avda. de  Portugal, 14",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": {},
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6887/297x223_v1_DirectorioalquilercochesPepecar.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a VIernes:8:00-14:00 y 16:00-20:00h  Sábados:9:00-14:00h.",
+            "identificador": 1155,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.5392 -5.668385",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Pepecar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/1155-pepecar",
+            "send": "fecha-actualizacion2014-01-22 12:02:50 +0100",
+            "telefono": {
+                "content": "807 414 243",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches",
+            "url": "http://www.gijon.es/directorios/show/1155-pepecar",
+            "web": ""
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {
+                "content": "<h3>Servicios:<\/h3>Vehículos industriales.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "C/ Anselmo Cifuentes, 12 - 33205",
+                {
+                    "content": "C/ Anselmo Cifuentes, 12 - 33205",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 350 916",
+            "foto": {
+                "content": "http://www.gijon.es/data/images/f6/6677/297x223_v1_DirectorioalquilercochesHertz.JPG",
+                "rdfa-property": "http://purl.org/dc/terms/relation"
+            },
+            "horario": "Lunes a viernes: 9:00 h. a 13:00 h. y 16:30 h. a 19:00 h.<br/>                                     Sábado:9:30 h. a 12:00 h.",
+            "identificador": 793,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.53843 -5.662218",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Hertz España",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/793-hertz-espana",
+            "send": "fecha-actualizacion2015-06-09 11:12:19 +0200",
+            "telefono": {
+                "content": "985 355 050 (información y reservas)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/793-hertz-espana",
+            "web": "http://www.hertz.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Turismo",
+                    "id": 165,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Movilidad",
+                    "id": 198,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "",
+            "descripcion": {"rdfa-property": "http://purl.org/dc/terms/description"},
+            "direccion": [
+                "Estación de Renfe-Feve Sanz Crespo. C/Bohemía,6 - 33207",
+                {
+                    "content": "Estación de Renfe-Feve Sanz Crespo. C/Bohemía,6 - 33207",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "",
+            "horario": "Lunes a Viernes: 9:00-13:30h. y 16:00-19:30h. Sábados: 9:00-13:00h.",
+            "identificador": 609,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.537213 -5.675436",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Europcar",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/609-europcar",
+            "send": "fecha-actualizacion2015-06-09 14:09:45 +0200",
+            "telefono": {
+                "content": "985 165 126, 902 503 010 (Información y reservas)",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches,Movilidad",
+            "url": "http://www.gijon.es/directorios/show/609-europcar",
+            "web": "http://www.europcar.es"
+        },
+        {
+            "categorias": {"categoria": [
+                {
+                    "content": "Alquiler de Coches",
+                    "id": 436,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": 2010,
+                    "id": 12,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                },
+                {
+                    "content": "Gijón",
+                    "id": 44,
+                    "rdfa-property": "http://purl.org/dc/terms/subject"
+                }
+            ]},
+            "correo-electronico": "grgijon@grh.es",
+            "descripcion": {
+                "content": "grupo empresarial con más de 50 años de experiencia en el mercado asturiano. En la actualidad nos centramos en dos áreas de negocio bien definidas: Automoción y Maquinaria de Hostelería.",
+                "rdfa-property": "http://purl.org/dc/terms/description"
+            },
+            "direccion": [
+                "Avda.de La Constitución, 54",
+                {
+                    "content": "Empresar Reunidas García Rodriguez Hnos. - Avda.de La Constitución, 54",
+                    "rdfa-property": "http://www.w3.org/2002/12/cal#street-address"
+                }
+            ],
+            "fax": "985 357 246",
+            "horario": {},
+            "identificador": 580,
+            "locale": "es",
+            "localizacion": {
+                "content": "43.534291 -5.669173",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#location"
+            },
+            "nombre": {
+                "content": "Empresas Reunidas Garcia Rodriguez Hnos.",
+                "rdfa-property": "http://www.geonames.org/ontology#name"
+            },
+            "rdfa-id": "http://www.gijon.es/directorios/show/580-empresas-reunidas-garcia-rodriguez-hnos",
+            "send": "fecha-actualizacion2014-01-22 12:02:34 +0100",
+            "telefono": {
+                "content": "985 355 056",
+                "rdfa-property": "http://www.w3.org/2002/12/cal#tel"
+            },
+            "tipo": "Alquiler de Coches",
+            "url": "http://www.gijon.es/directorios/show/580-empresas-reunidas-garcia-rodriguez-hnos",
+            "web": ""
+        }
+    ],
+    "rdfa": true,
+    "rdfa-class": "http://www.geonames.org/ontology#Feature"
+}}
