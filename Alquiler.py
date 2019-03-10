@@ -24,8 +24,27 @@ def Filtro (doc):
     lista = []
     for datos in doc ["directorios"]["directorio"]:
         for categoria in datos ["categorias"]["categoria"]:
-            if (categoria["content"] == "Club de Empresas de Turismo de Negocios"):
+            if (categoria["content"] == "Congresos"):
                 lista.append (datos["nombre"]["content"])
+                return lista
+
+#def Buscar (doc):
+    #lista = []
+    #for datos in doc ["directorios"]["directorio"]:
+    #    for horario in datos ["horario"]:
+        #    if dia in horario:
+                #lista.append (datos["nombre"]["content"])
+    #        return horario
+            #else:
+            #    print ("ningun local abre ese dia")
+
+
+def Localizacion (sitio,doc):
+    lista = []
+    for datos in doc ["directorios"]["directorio"]:
+        if datos ["nombre"]["content"] == sitio:
+            for loc in datos ["localizacion"]["content"]:
+                lista.append (loc)
                 return lista
 
 with open("alquiler de coches.json") as fichero:
@@ -53,6 +72,14 @@ while True:
     elif opcion == "3":
         for categoria in Filtro (doc):
             print ("*",categoria)
+
+    elif opcion == "4":
+        #horario = input("Introduzca el horario que quiera comprobar: ")
+        print (Buscar(doc))
+
+    elif opcion == "5":
+        sitio = input("Que sitio de alquiler quieres localizar: ")
+        print (Localizacion(sitio,doc))
 
     elif opcion == "0":
         break;
