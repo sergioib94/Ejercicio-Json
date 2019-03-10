@@ -2,7 +2,7 @@ import json
 
 def Lista (doc):
     listaN = []
-    listaD = []
+    listaD = []):
     for alquiler in doc ["directorios"]["directorio"]:
         listaN.append (alquiler["nombre"]["content"])
     for direcciones in doc ["directorios"]["directorio"]:
@@ -11,10 +11,18 @@ def Lista (doc):
 
 def Contar (doc):
     lista = []
+    lista1= []
     for datos in doc ["directorios"]["directorio"]:
-        if datos ["web"]["content"]!=" ":
-            lista.append (datos["content"])
-            return (lista)
+        if (datos["web"] == ""):
+            lista1.append (datos ["web"])
+        else:
+            lista.append (datos ["web"])
+            total = len(lista)
+    return total
+
+def Filtro (doc):
+    for datos in doc ["directorios"]["directorio"]:
+        for
 
 with open("alquiler de coches.json") as fichero:
     doc = json.load(fichero)
@@ -35,9 +43,11 @@ while True:
         for listaN ,listaD in Lista (doc):
             print ("*",listaN,"-",listaD)
 
-    if opcion == "2":
-        for datos in Contar (doc):
-            print ("Hay %d de sitios" %len(datos))
+    elif opcion == "2":
+        print (Contar (doc))
 
     elif opcion == "0":
         break;
+
+    else:
+        print ("ERROR, esa opcion no existe")
