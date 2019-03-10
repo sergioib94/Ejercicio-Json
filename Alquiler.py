@@ -2,7 +2,7 @@ import json
 
 def Lista (doc):
     listaN = []
-    listaD = []):
+    listaD = []
     for alquiler in doc ["directorios"]["directorio"]:
         listaN.append (alquiler["nombre"]["content"])
     for direcciones in doc ["directorios"]["directorio"]:
@@ -21,8 +21,12 @@ def Contar (doc):
     return total
 
 def Filtro (doc):
+    lista = []
     for datos in doc ["directorios"]["directorio"]:
-        for
+        for categoria in datos ["categorias"]["categoria"]:
+            if (categoria["content"] == "Club de Empresas de Turismo de Negocios"):
+                lista.append (datos["nombre"]["content"])
+                return lista
 
 with open("alquiler de coches.json") as fichero:
     doc = json.load(fichero)
@@ -45,6 +49,10 @@ while True:
 
     elif opcion == "2":
         print (Contar (doc))
+
+    elif opcion == "3":
+        for categoria in Filtro (doc):
+            print ("*",categoria)
 
     elif opcion == "0":
         break;
