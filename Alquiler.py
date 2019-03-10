@@ -20,11 +20,11 @@ def Contar (doc):
             total = len(lista)
     return total
 
-def Filtro (doc):
+def Filtro (cat,doc):
     lista = []
     for datos in doc ["directorios"]["directorio"]:
         for categoria in datos ["categorias"]["categoria"]:
-            if (categoria["content"] == "Congresos"):
+            if (categoria["content"] == cat):
                 lista.append (datos["nombre"]["content"])
                 return lista
 
@@ -70,7 +70,8 @@ while True:
         print (Contar (doc))
 
     elif opcion == "3":
-        for categoria in Filtro (doc):
+        cat = input("¿Quiere ver los sitios para alquilar coches para Movilidad o Congresos?: ")
+        for categoria in Filtro (cat,doc):
             print ("*",categoria)
 
     elif opcion == "4":
